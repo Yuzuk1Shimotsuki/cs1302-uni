@@ -2,7 +2,7 @@
 
 The original repository from CityU HK CS1302 course. Modified by me for some additional information.
 
-This repo is for self-revision only and may not be up-to-date. Any updated information should refer to the [original author's repository](https://github.com/ChocolaMilk92/cs1302)
+This repo is for self-revision only and may not be up-to-date. Any updated information should refer to the [original author's repository](https://github.com/ccha23/cs1302)
 
 ---
 
