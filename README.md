@@ -1,4 +1,8 @@
-# CS1302
+# CS1302 Self repo
+
+The original repository from CityU HK CS1302 course. Modified by me for some additional information.
+
+---
 
 This is the repository for CS1302 student notebooks:
 
