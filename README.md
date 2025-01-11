@@ -1,6 +1,6 @@
 # CS1302 Self repo
 
-The original repository from CityU HK CS1302 course. Modified by me for some additional information.
+The original repository from CityU HK CS1302 course. Modified by @me with some additional information.
 
 This repo is for self-revision only and may not be up-to-date. Any updated information should refer to the [original author's repository](https://github.com/ccha23/cs1302)
 
